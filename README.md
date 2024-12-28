@@ -1,4 +1,4 @@
-# Colorizing Balck & White Images Using Generative Adverserial Networks
+<!-- # Colorizing Balck & White Images Using Generative Adverserial Networks
 
 Implemeted a Generational Adverserial Network for colorizing black & white images. <br />
 Dataset used : [COCO-2017 training](https://www.kaggle.com/awsaf49/coco-2017-dataset)  <br />
@@ -31,4 +31,4 @@ Some examples
 * Hyper-parameter optimisations
 * Create a web application and deploy the model over it.
 
-
+ -->
